@@ -35,6 +35,8 @@ Tecnologías utilizadas:
 - REACT : ⚛️
 
 🗂️ Estructura del proyecto
+
+```java
 src/
 ├── components/
 │   ├── Header.jsx        # Cabecera y título de la app
@@ -45,6 +47,8 @@ src/
 ├── App.jsx               # Componente raíz y lógica principal
 ├── main.jsx              # Punto de entrada
 └── index.css             # Estilos globales
+```
+
 - ⚙️ Instalación y puesta en marcha
       Requisitos previos
       Node.js v18 o superior
@@ -52,6 +56,7 @@ src/
 
 ## 🚨Comandos necesarios para instalar el proyecto
 
+```java
 git clone <url-del-repositorio>
 
 cd gestor_tareas
@@ -59,6 +64,7 @@ cd gestor_tareas
 npm i o npm install
 
 npm run dev
+```
 
 La aplicación estará disponible en:
 
@@ -68,6 +74,11 @@ Diseño Responsive
 
 La aplicación está adaptada para funcionar correctamente en: Portátiles/Móviles/Tablets
 
+![image.png](attachment:d8d2213d-9157-4459-915d-46a7d7467619:image.png)
+
+📄 Licencia
+
+Este proyecto ha sido desarrollado con fines educativos y de aprendizaje.
 ![image.png](image.png)
 
 📄 Licencia

@@ -74,11 +74,6 @@ Diseño Responsive
 
 La aplicación está adaptada para funcionar correctamente en: Portátiles/Móviles/Tablets
 
-![image.png](attachment:d8d2213d-9157-4459-915d-46a7d7467619:image.png)
-
-📄 Licencia
-
-Este proyecto ha sido desarrollado con fines educativos y de aprendizaje.
 ![image.png](image.png)
 
 📄 Licencia
